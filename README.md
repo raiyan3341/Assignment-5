@@ -6,7 +6,9 @@ querySelectorAll is Selects all elements matching any CSS selector. Returns a st
 
 2.
 const p = document.createElement("p");
+
 p.textContent = "Hello World";
+
 document.body.appendChild(p); 
 
 3.
